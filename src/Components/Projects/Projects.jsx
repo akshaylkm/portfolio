@@ -1,6 +1,6 @@
 import React from 'react';
 function Projects() {
-  return <div className=' h-screen pl-9'>
+  return <div data-aos="fade-up" className=' h-screen pl-9'>
       <h1 className=' pt-9 font-medium text-xl sm:text-4xl'>SOME OF MY WORKS AND PERSONAL PROJECTS</h1>
       <div className='pr-4 sm:flex justify-center items-center pt-24'>
         <a href="https://akshaylkm.github.io/netflix/"><img className=' w-96 h-34 mr-9 mb-5 hover:scale-125 shadow-xl' src="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png" alt="img" /></a>
