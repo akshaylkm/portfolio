@@ -1,4 +1,4 @@
-import About from "./Components/About/About";
+
 import Intro from "./Components/Intro/Intro";
 import NavBar from "./Components/NavBar/NavBar";
 import Projects from "./Components/Projects/Projects";
@@ -11,7 +11,6 @@ function App() {
      <Intro/>
      <Skills/>
      <Projects/>
-     <About/>
     </div>
   );
 }
