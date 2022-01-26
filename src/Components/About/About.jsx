@@ -3,22 +3,21 @@ import {Instagram,LinkedIn, YouTube,GitHub,Twitter} from '@mui/icons-material'
 function About() {
   return <div className=' flex justify-between content-centerh-24 px-8'>
       <h1 className='text-xl font-semibold'>AKSHAY <span className='font-light'>K</span>M</h1>
-      <span>akshaykm194@gmail.com</span>
       <ul className='flex'>
       <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
-        <Instagram/>
+        <a href="https://www.instagram.com/akshay.kmadhu/"><Instagram/></a>
       </li>
       <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
-        <LinkedIn/>
+        <a href="https://www.linkedin.com/in/akshaylkm/"><LinkedIn/></a>
       </li>
       <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
         <YouTube/>
       </li>
       <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
-        <GitHub/>
+        <a href="https://github.com/akshaylkm"><GitHub/></a>
       </li>
       <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
-        <Twitter/>
+        <a href="https://twitter.com/akshaylkm"><Twitter/></a>
       </li>
     </ul>
   </div>;

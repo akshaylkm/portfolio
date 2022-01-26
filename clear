@@ -1,0 +1,11 @@
+[33mcommit 19d38eae41fc319e0cd0c383cf5bf40c09751260[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Akshay KM <akshay194@gmail.com>
+Date:   Wed Jan 26 15:17:39 2022 +0530
+
+    initial commit
+
+[33mcommit bfc09331098cf701d2cf0b4ef9f06c4ed8fecc76[m
+Author: Akshay KM <akshay194@gmail.com>
+Date:   Mon Jan 24 19:57:27 2022 +0530
+
+    Initialize project using Create React App
