@@ -7,7 +7,7 @@ function Skills() {
       <p className='font-extralight text-md pt-7 sm:text-2xl'>From the beginning days of when I first got into software development up until now, I’ve learned and gained a solid understanding of web development standards, the importance of reusability/scalability in large enterprise applications, and how user expereince means everything.</p>
       </div>
       <img data-aos="fade-right" className=' w-72 h-96 rounded-2xl shadow-2xl ml-5' src={img1} alt="ímg" />
-      <div data-aos="fade-right" className='basis-1/2 pl-9 pt-1 pb-7 sm:pt-20'>
+      <div data-aos="fade-right" className='basis-1/2 pl-9 pt-9 pb-7 sm:pt-20'>
           <button className=' rounded-sm bg-slate-100 mr-5 mb-3 px-2'>Javascript ES6</button>
           <button className=' rounded-sm bg-slate-100 mr-5 mb-3 px-2'>REACT JS</button>
           <button className=' rounded-sm bg-slate-100 mr-5 mb-3 px-2'>GO</button>
