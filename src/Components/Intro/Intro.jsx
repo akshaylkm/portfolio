@@ -9,7 +9,7 @@ function Intro() {
   return <div className='pt-16 h-screen  sm:flex'>
     <div className=' basis-1/4 pl-9'>
     <ul className='flex'>
-      <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
+      <li className=' animate-bounce mr-6 cursor-pointer opacity-50 hover:opacity-100'>
         <a href="https://www.instagram.com/akshay.kmadhu/"><Instagram/></a>
       </li>
       <li className='mr-6 cursor-pointer opacity-50 hover:opacity-100'>
