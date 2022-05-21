@@ -2,6 +2,7 @@ import React from 'react'
 import expenseImg from "../../Images/expense.png";
 import HelloApp from "../../Images/h.JPG";
 import todo from "../../Images/todo.JPG";
+import weather from "../../Images/weather2.JPG";
 
 function ReactProjects() {
   return (
@@ -10,6 +11,13 @@ function ReactProjects() {
         SOME OF MY PERSONAL PROJECTS IN REACT JS
       </h1>
       <div className="pr-4 sm:flex flex-wrap justify-center items-center pt-24">
+      <a href="https://akshaylkm.github.io/WeatherApp/">
+          <img
+            className=" w-96 h-34 mr-9 mb-5 sm:hover:scale-125 shadow-xl"
+            src={weather}
+            alt="img"
+          />
+        </a>
         <a href="https://akshaylkm.github.io/netflix/">
           <img
             className=" w-96 h-34 mr-9 mb-5 sm:hover:scale-125 shadow-xl"
