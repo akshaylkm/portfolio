@@ -3,18 +3,26 @@ import expenseImg from "../../Images/expense.png";
 import HelloApp from "../../Images/h.JPG";
 import todo from "../../Images/todo.JPG";
 import weather from "../../Images/weather2.JPG";
+import node from "../../Images/NODE.JPG";
 
 function ReactProjects() {
   return (
     <div data-aos="fade-up" className=" h-auto pl-9">
       <h1 className=" pt-9 font-medium text-xl sm:text-4xl">
-        SOME OF MY PERSONAL PROJECTS IN REACT JS
+        SOME OF MY PERSONAL PROJECTS IN MERN STACK
       </h1>
       <div className="pr-4 sm:flex flex-wrap justify-center items-center pt-24">
       <a href="https://akshaylkm.github.io/WeatherApp/">
           <img
             className=" w-96 h-34 mr-9 mb-5 sm:hover:scale-125 shadow-xl"
             src={weather}
+            alt="img"
+          />
+        </a>
+        <a href="https://morning-river-32661.herokuapp.com/">
+          <img
+            className=" w-96 h-34 mr-9 mb-5 sm:hover:scale-125 shadow-xl"
+            src={node}
             alt="img"
           />
         </a>

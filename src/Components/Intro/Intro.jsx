@@ -31,8 +31,8 @@ function Intro() {
     </div>
     <div data-aos="fade-right" className='basis-3/4 pl-9 pr-24 pt-9 sm:text-right sm:pt-28'>
      <h1 className='font-thin text-4xl sm:text-5xl'>I'm AKSHAY.</h1>
-     <h1 className='font-bold text-4xl cursor-pointer hover:text-red-600'>React js Developer.</h1>
-     <p className='font-normal text-xl sm:text-3xl'>I’m a self-taught Software Developer. Experience in Reactjs and Javascript.</p>
+     <h1 className='font-bold text-4xl cursor-pointer hover:text-red-600'>MERN STACK Developer.</h1>
+     <p className='font-normal text-xl sm:text-3xl'>I’m a self-taught Software Developer. Experience in MERN STACK and Javascript.</p>
     </div>
   </div>;
 
