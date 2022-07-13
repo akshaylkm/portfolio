@@ -1,5 +1,5 @@
 import React from "react";
-
+import yt from "../../Images/yt.jpg";
 function Projects() {
   return (
     <div data-aos="fade-up" className=" h-auto pl-9">
@@ -12,6 +12,13 @@ function Projects() {
           <img
             className=" w-96 h-34 mr-9 mb-5 sm:hover:scale-125 shadow-xl"
             src="https://i.ytimg.com/vi/NljIHlZRTTE/maxresdefault.jpg"
+            alt="img"
+          />
+        </a>
+        <a href="https://akshaylkm.github.io/test/">
+          <img
+            className=" w-96 h-34 mr-9 mb-5 sm:hover:scale-125 shadow-xl"
+            src={yt}
             alt="img"
           />
         </a>

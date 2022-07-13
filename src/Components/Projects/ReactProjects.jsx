@@ -9,7 +9,7 @@ function ReactProjects() {
   return (
     <div data-aos="fade-up" className=" h-auto pl-9">
       <h1 className=" pt-9 font-medium text-xl sm:text-4xl">
-        SOME OF MY PERSONAL PROJECTS IN MERN STACK
+        SOME OF MY PERSONAL PROJECTS IN REACT JS
       </h1>
       <div className="pr-4 sm:flex flex-wrap justify-center items-center pt-24">
       <a href="https://akshaylkm.github.io/WeatherApp/">
